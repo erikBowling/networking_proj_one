@@ -1,0 +1,82 @@
+09/28/2023 04:38:17 PM - INFO - Testing
+09/28/2023 04:38:17 PM - DEBUG - Testing
+09/28/2023 04:38:17 PM - ERROR - Testing
+09/28/2023 04:56:36 PM - ERROR - [Errno 111] Connection refused
+09/28/2023 04:57:24 PM - ERROR - [Errno 111] Connection refused for 34.41.65.177 on port 800
+09/28/2023 05:00:11 PM - ERROR - [Errno 111] Connection refused for 34.41.65.177 on port 800
+09/28/2023 05:00:21 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:00:21 PM - INFO - Testing
+09/28/2023 05:00:21 PM - DEBUG - Testing
+09/28/2023 05:00:21 PM - ERROR - Testing
+09/28/2023 05:05:33 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:05:33 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:05:33 PM - INFO - Sending message 'Example message for testing.' to server.
+09/28/2023 05:08:08 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:08:08 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:08:08 PM - INFO - Sending message 'Example message for testing.' to server.
+09/28/2023 05:09:27 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:09:27 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:09:27 PM - INFO - Sending message 'Example message for testing.' to server.
+09/28/2023 05:10:48 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:10:48 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:10:48 PM - INFO - Sending message 'I love netowrking class!' to server.
+09/28/2023 05:11:03 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:11:03 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:11:03 PM - INFO - Sending message 'I love networking class!' to server.
+09/28/2023 05:11:03 PM - INFO - Recieved: Hello there ('34.75.79.185', 38960). Here is another random quote of wisdom for you:If opportunity does not knock, build a door.
+
+09/28/2023 05:22:06 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:22:06 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:26:20 PM - INFO - Sending message 'Networking is fun' to server.
+09/28/2023 05:26:20 PM - INFO - Recieved: Hello there ('34.75.79.185', 41858). Here is another random quote of wisdom for you:A problem is a chance for you to do your best.
+
+09/28/2023 05:36:17 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:36:17 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:36:45 PM - INFO - Sending message 'Networking is cool' to server.
+09/28/2023 05:36:45 PM - INFO - Recieved: Hello there ('34.75.79.185', 41254). Here is another random quote of wisdom for you:Not having the best situation, but seeing the best in your situation is the key.
+
+09/28/2023 05:37:09 PM - INFO - Client starting. Attempting connection to server.
+09/28/2023 05:37:09 PM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/28/2023 05:37:14 PM - INFO - Sending message 'hahah stinky' to server.
+09/28/2023 05:37:48 PM - INFO - Recieved: 
+09/29/2023 02:09:13 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:09:13 AM - INFO - TCP connection etablished to 34.41.65.177 on port 8001
+09/29/2023 02:09:21 AM - INFO - Sending message 'Networking is cewl' to server.
+09/29/2023 02:09:21 AM - INFO - Recieved: Hello there ('34.75.79.185', 37478). Here is another random quote of wisdom for you:Dwell on the beauty of life. Watch the stars, and see yourself running with them.
+
+09/29/2023 02:11:15 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:11:15 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:11:19 AM - INFO - Sending message 'hahahah test' to server.
+09/29/2023 02:12:46 AM - INFO - Recieved: 
+09/29/2023 02:23:47 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:23:47 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:24:04 AM - INFO - Sending message 'Oh boy please work.....networking' to server.
+09/29/2023 02:24:04 AM - INFO - Recieved: Hello there ('34.75.79.185', 39086). Here is another random quote of wisdom for you:It makes a big difference in your life when you stay positive.
+
+09/29/2023 02:24:09 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:24:09 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:24:20 AM - INFO - Sending message 'testing not having the magic word' to server.
+09/29/2023 02:26:14 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:26:14 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:26:20 AM - INFO - Sending message 'testing timeout' to server.
+09/29/2023 02:26:30 AM - ERROR - timed out for 34.41.65.177 on port 8001
+09/29/2023 02:28:51 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:28:51 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:28:55 AM - INFO - Sending message 'networking' to server.
+09/29/2023 02:28:56 AM - INFO - Recieved: Hello there ('34.75.79.185', 47940). Here is another random quote of wisdom for you:One small positive thought can change your whole day.
+
+09/29/2023 02:29:46 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:29:46 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:30:06 AM - INFO - Sending message 'networking' to server.
+09/29/2023 02:30:06 AM - INFO - Recieved: Hello there ('34.75.79.185', 37704). Here is another random quote of wisdom for you:Change your thoughts and you change your world.
+
+09/29/2023 02:45:59 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:45:59 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:46:08 AM - INFO - Sending message 'Help me do networking' to server.
+09/29/2023 02:46:08 AM - INFO - Recieved: Hello there ('34.75.79.185', 52508). Here is another random quote of wisdom for you:Believe that life is worth living and your belief will help create the fact.
+
+09/29/2023 02:48:36 AM - INFO - Client starting. Attempting connection to server.
+09/29/2023 02:48:36 AM - INFO - TCP connection established to 34.41.65.177 on port 8001
+09/29/2023 02:48:49 AM - INFO - Sending message 'Networking packet capture with tcpdump test' to server.
+09/29/2023 02:48:49 AM - INFO - Recieved: Hello there ('34.75.79.185', 35058). Here is another random quote of wisdom for you:Success is not final, failure is not fatal, it is the courage to continue that counts.
+
